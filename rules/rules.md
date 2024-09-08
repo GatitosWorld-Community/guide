@@ -35,8 +35,31 @@ Si tiene alguna duda o consulta, puede contactarnos por medio de un e-mail a <a 
 ==- Normas de Discord
 
 ##### Términos de Servicio
+Discord cuenta con unos términos por los que pueden juzgar si un usuario puede o no utilizar los servicios de su plataforma. Estos términos aplican en toda la plataforma, dentro o fuera del servidor. En caso de apreciar un incumplimiento de éstos, el equipo de moderadores evaluará una posible sanción. En caso de que la infracción haya sido realizada en el servidor o contra los usuarios de éste, la sanción será inminente.
 
-##### Directivas de comunidad
+Puede leer su correspondiente documento completo en [discord.com/terms](https://discord.com/terms)
+
+A continuación, destacaremos algunas de las normás más destacables de éstos términos.
+
+- Todo usuario debe tener al menos 13 años.
+- No se podrá usar Discord para actos ilegales.
+- No se consentirán actos de cualquier tipo de abuso a menores o la promoción de éstos.
+- Como usuario no atacarás o dañarás a otros usuarios.
+
+##### Directrices de comunidad
+Además, Discord cuenta con un reglamento especial para comunidades, éste es observable en [discord.com/guidelines](https://discord.com/guidelines). Al igual que con el apartado anterior, el incumplimiento de estas normas podrá suponer una sanción, y el incumplimiento dentro del servidor, será una sanción inminente.
+
+Indicaremos las normas más importantes de estas directivas.
+
+- No participar en cualquier tipo de acoso o intimidación.
+- No difundir la información personal de un usuario, o amenazar con hacerlo.
+- No fomentes el odio.
+- Respeta la integridad sexual de los menores de 18 años. En caso de ser menor, respeta tu propia integridad sexual.
+- No difundas contenido no apto para menores en canales no habilitados para ello.
+
+!!!danger Sanciones
+El incumplimiento de cualquiera de estas normas, tanto de términos de servicio como de directrices de comunidad, podría suponer la sanción máxima, un veto de acceso permanente al servidor.
+!!!
 
 ==- Normas generales
 
