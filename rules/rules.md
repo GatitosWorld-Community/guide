@@ -11,10 +11,10 @@ Estas son las reglas del servidor.<br>
 Por comodidad para nuestros usuarios, en nuestro servidor de Discord encontrarás una versión resumida de éstas, no obstante, si buscas una normativa que recoja todos los casos posibles, aquí se encuentra.
 
 !!! Documento largo
-Tiempo de lectura aproximado: 15 minutos
+Tiempo de lectura aproximado: 17 minutos
 !!!
 
-==- Preámbulo
+==- `P` Preámbulo
 
 En este documento se recogen los términos y condiciones por los que se regula el acceso a los servicios que la comunidad de GatitosWorld ofrece en la plataforma de Discord, propiedad de Discord Inc.
 
@@ -27,9 +27,9 @@ La interacción con la comunidad se sobreentiende como la aceptación de estos t
 Se define medida correctora como aquella acción emprendida por un miembro del equipo de moderación y/o administración del servidor con el fin de erradicar un comportamiento contrario a lo estipulado en esta normativa.
 !!!
 
-==- Legal
+==- `L` Legal
 
-##### Protección de datos
+##### `L.1` Protección de datos
 En GatitosWorld nos preocupamos por el cumplimiento de las vigentes normativas en materia de protección de datos y seguridad. Garantizamos una transparencia absoluta tratando a cada usuario por un código identificador único no vinculado de forma directa a datos personales, confidenciales o identificativos.
 
 Este servidor sigue las leyes LOPD y RGPD vigentes en España y la Unión Europea. Estas leyes son las consideradas actualmente como más estrictas y restrictivas del mundo, por lo que nos sentimos orgullosos de poder decir que nos hemos adaptado con gran facilidad al resto de legislaciones internacionales.
@@ -44,7 +44,7 @@ Si tiene alguna duda o consulta, puede contactarnos por medio de un e-mail a <a 
 
 ==- `D` Normas de Discord
 
-##### Términos de Servicio
+##### `D.1` Términos de Servicio
 Discord cuenta con unos términos por los que pueden juzgar si un usuario puede o no utilizar los servicios de su plataforma. Estos términos aplican en toda la plataforma, dentro o fuera del servidor. En caso de apreciar un incumplimiento de éstos, el equipo de moderadores evaluará una posible sanción. En caso de que la infracción haya sido realizada en el servidor o contra los usuarios de éste, la sanción será inminente.
 
 Puede leer su correspondiente documento completo en [discord.com/terms](https://discord.com/terms)
@@ -56,7 +56,7 @@ A continuación, destacaremos algunas de las normás más destacables de éstos 
 - No se consentirán actos de cualquier tipo de abuso a menores o la promoción de éstos.
 - Como usuario no atacarás o dañarás a otros usuarios.
 
-##### Directrices de comunidad
+##### `D.2` Directrices de comunidad
 Además, Discord cuenta con un reglamento especial para comunidades, éste es observable en [discord.com/guidelines](https://discord.com/guidelines). Al igual que con el apartado anterior, el incumplimiento de estas normas podrá suponer una sanción, y el incumplimiento dentro del servidor, será una sanción inminente.
 
 Indicaremos las normas más importantes de estas directivas.
@@ -178,15 +178,70 @@ En caso de empate se analizarán medios de evaluación alternativos.
 
 ==- `T` Aplicables a canales de texto
 
+<br>
+
+#### T.1 `🤔` Contenido de los mensajes
+
+**T.1.1**
+:   No utilices emojis de forma masiva en los mensajes. No se permitirá exceder el número de 7 emojis por mensaje, y entre 5 y 7 será el equipo de moderadores el encargado de juzgar si se debe sancionar.
+
+**T.1.2**
+:   No envíes líricas de ningún tipo, en ningún idioma.
+
+**T.1.3**
+:   No envíes mensaje sobrecargados de caracteres innecesarios.<br>Ejemplo: `Holaaaaaaaaaaaaaaaa`
+
+**T.1.4**
+:   No envíes mensajes con ASCII Arts en ninguno de los canales del servidor.
+
+**T.1.5**
+:   No inundes ningún canal con mensajes externos a cualquier conversación o carentes de signifante o significado.
+
+#### T.2 `⛓️` Cadenas
+
+**T.2.1**
+:   No continúes líricas de ningún tipo, en ningún idioma.
+
+**T.2.2**
+:   No sigas cadenas de reenvío de mensajes ASCII Art de ningún tipo en ningún canal del servidor.
+
+#### T.3 `📸` Multimedia
+
+**T.3.1**
+:   No compartas contenido NSFW o similares.
+
+**T.3.2**
+:   No compartas contenido en el que se aprecie violencia extrema o maltrato a cualquier ser vivo.
+
+**T.3.3**
+:   No compartas multimedia que no sea de tu propiedad o autoría sin consentimiento del autor o propietario.
+
+**T.3.4**
+:   No envíes fotografías de personas que no te hayan dado su autorización. Esta norma aplica a los mensajes directos.
+
+#### T.4 `🔔` Menciones
+
+**T.4.1**
+:   No menciones de forma abusiva, limítate a un máximo de 5 menciones por mensaje.
+
+**T.4.2**
+:   No menciones a los altos cargos del equipo de moderación o administración sin una causa justificada.
+
+**T.4.3**
+:   No menciones a ningún streamer o YouTuber afiliado con el servidor.
+
+**T.4.4**
+:   No menciones persistentemente a un usuario.
+
 ==- `V` Aplicables a canales de voz
 
-##### Para todos los canales de voz
+#### V.1 `🔊` Todos los canales de voz
 
-##### Para los canales de voz públicos
+#### V.2 `👥` Canales de voz públicos
 
-##### Para los canales de voz personalizados
+#### V.3 `✏️` Canales de voz personalizados
 
-##### Para los canales de voz VIP
+#### V.4 `🌟` Canales de voz VIP
 
 ===
 
