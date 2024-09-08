@@ -1,13 +1,19 @@
 ---
-order: 1
+order: 999
 date: 2024-09-08
 icon: book
+tags:
+    - normas
 ---
 
 # Normas
 
 Estas son las normas del servidor.<br>
 Por comodidad para nuestros usuarios, en nuestro servidor de Discord encontrarás una versión resumida de éstas, no obstante, si buscas una normativa que recoja todos los casos posibles, aquí se encuentra.
+
+!!!
+Esta es la `quinta` enmienda de este documento.
+!!!
 
 ==- Preámbulo
 
@@ -29,7 +35,11 @@ En GatitosWorld nos preocupamos por el cumplimiento de las vigentes normativas e
 
 Este servidor sigue las leyes LOPD y RGPD vigentes en España y la Unión Europea. Estas leyes son las consideradas actualmente como más estrictas y restrictivas del mundo, por lo que nos sentimos orgullosos de poder decir que nos hemos adaptado con gran facilidad al resto de legislaciones internacionales.
 
+Almacenamos la información exclusivamente necesaria para poder mantener un registro de actitud y comportamiento en el servidor, junto a las pruebas que acompañen a cualquiera de las sanciones y/o advertencias.
+
 Cabe destacar que cualquier usuario puede solicitar la eliminación de sus datos, no obstante, por razones de calidad y seguridad, esta acción conllevará consigo un veto de acceso permanente a la comunidad al privar al equipo de moderación de la capacidad para poder almacenar pruebas.
+
+Como usuario, también puede solicitar la información recopilada sobre su persona. Es de suma importancia comprender que aquellos elementos en los que intervengan terceros no podrán ser mostrados. Por ejemplo, si hablamos de una grabación de un canal de voz, no se podrá proporcionar si otros usuarios hablan durante la grabación, con el objetivo de proteger su privacidad.
 
 Si tiene alguna duda o consulta, puede contactarnos por medio de un e-mail a <a href="mailto:legal@gatitosworld.com">legal@gatitosworld.com</a>
 
@@ -82,7 +92,6 @@ El incumplimiento de cualquiera de estas normas, tanto de términos de servicio 
 Como usuario, dispone usted de una serie de derechos. Aquí se recogen todos ellos:
 
 - **Derecho a la revisión de las pruebas.** Tiene usted derecho a que las pruebas de cualquier incidente en el que haya sido partícipe sean revisadas. No se garantiza que se puedan mostrar al usuario dada la posible participación de otros usuarios, no obstante, puede apoyarse en su derecho a la revisión imparcial de un caso por medio de un segundo moderador.
-- **Derecho al acceso a sus datos.** Apoyándonos en las leyes europeas, usted puede solicitar por correo electrónico el procesamiento de sus datos como usuario. Se le proporcionarán todas las evidencias posibles sin violar la privacidad de los usuarios que compartían medio de comunicación en ese momento. Pese a ser solicitado por correo, la entrega de los datos siempre se realizará por medio de un ticket.
 - **Derecho a ser tratad@ imparcialmente.** Como usuario del servidor dispone usted del derecho a ser tratado de forma imparcial, sin atender a origen, etnia, ideología política, situación social u otros factores excluyentes.
 - **Derecho a informar de su disconformidad con la sanción.** Siguiendo las normas del servidor y Discord, y bajo un lenguaje formal y respetuoso, usted puede trasladar a cualquier miembro del equipo de moderadores su disconformidad con alguna de sus sanciones.
 - **Derecho a la revisión imparcial de su sanción.** En caso de haber sido sancionad@, puede usted solicitar que un moderador completamente ajeno al asunto supervise la actuación para determinar si la sanción ha sido dada siguiendo el protocolo o no.
