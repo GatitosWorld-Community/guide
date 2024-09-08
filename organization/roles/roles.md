@@ -1,6 +1,6 @@
 ---
 order: 
-icon: 
+icon: person
 tags:
     - primeros pasos
 ---

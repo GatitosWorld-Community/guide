@@ -3,8 +3,8 @@ order: 999
 date: 2024-09-08
 icon: book
 tags:
-    - normas
+    - reglas
     - moderación
 ---
 
-# Normas para moderadores
+# Reglas para moderadores

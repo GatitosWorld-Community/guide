@@ -1,6 +1,6 @@
 ---
 order: 
-icon: 
+icon: hash
 tags:
     - primeros pasos
 ---

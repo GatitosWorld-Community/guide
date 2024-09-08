@@ -55,7 +55,7 @@ Cabe destacar que no todos los roles autoseleccionables son gratuítos o libres,
 <br><br><br><br><br>
 
 ### Acceso a canales de voz
-Para el acceso a canales de voz del servidor necesitarás disponer de los correspondientes roles. El primero de ellos te dará acceso a los canales, en caso de incumplimiento reiterado de las normas, puede ser retirado. El segundo funciona como rol de control y permitirá el correcto funcionamiento del sistema de roles y permisos.
+Para el acceso a canales de voz del servidor necesitarás disponer de los correspondientes roles. El primero de ellos te dará acceso a los canales, en caso de incumplimiento reiterado de las reglas, puede ser retirado. El segundo funciona como rol de control y permitirá el correcto funcionamiento del sistema de roles y permisos.
 
 Estos roles se consiguen como un rol autoseleccionable, es decir, debes solicitar estos roles manualmente en el correspondiente canal.
 
@@ -65,7 +65,7 @@ Recomenadmos encarecidamente revisar la página de roles de canales de voz.
 <br><br><br><br><br>
 
 ### Canales de voz personalizados
-En el servidor, los usuarios seleccionados podrán utilizar los canales de voz personalizados, que se rigen por sus propias normas y mantienen un funcionamiento único.<br>
+En el servidor, los usuarios seleccionados podrán utilizar los canales de voz personalizados, que se rigen por sus propias reglas y mantienen un funcionamiento único.<br>
 Estos usuarios podrán solicitar crear un canal personalizado, canal que por medio de comandos podrán editar y adaptar a sus deseos y necesidades.
 
 Para crear un canal personalizado deberás unirte al canal de voz cuyo nombre lo indica, el bot te moverá instantáneamente a tu nuevo canal de voz. ¡Pero cuidado! Si el canal se queda vacío será eliminado, y si el dueño lo abandona, cualquier usuario que se encuentre dentro del canal, podrá reclamarlo.
@@ -91,7 +91,7 @@ Si tu disconformidad tiene relación con la actuación de un moderador, un mento
 <br><br><br><br><br>
 
 ### Contacto oficial con el equipo de gerencia
-En raras ocasiones podría ser necesario ponerse en contacto con el equipo de gerencia del servidor, por ejemplo si sucede algún tipo de quebrantamiento grave de las normas por parte de un moderador. Esto supondrá la movilización de todos los medios del equipo.
+En raras ocasiones podría ser necesario ponerse en contacto con el equipo de gerencia del servidor, por ejemplo si sucede algún tipo de quebrantamiento grave de las reglas por parte de un moderador. Esto supondrá la movilización de todos los medios del equipo.
 
 Para lograr esto, deberás abrir un ticket y dando la razón adecuada, solicitar hablar con un administrador, el cual se encargará de evaluar el caso y juzgar si se debe trasladar a gerencia.
 

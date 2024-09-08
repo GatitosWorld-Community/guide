@@ -3,16 +3,15 @@ order: 999
 date: 2024-09-08
 icon: book
 tags:
-    - normas
+    - reglas
 ---
+# Reglas
 
-# Normas
-
-Estas son las normas del servidor.<br>
+Estas son las reglas del servidor.<br>
 Por comodidad para nuestros usuarios, en nuestro servidor de Discord encontrarás una versión resumida de éstas, no obstante, si buscas una normativa que recoja todos los casos posibles, aquí se encuentra.
 
-!!!
-Esta es la `quinta` enmienda de este documento.
+!!! Documento largo
+Tiempo de lectura aproximado: 13 minutos
 !!!
 
 ==- Preámbulo
@@ -43,7 +42,7 @@ Como usuario, también puede solicitar la información recopilada sobre su perso
 
 Si tiene alguna duda o consulta, puede contactarnos por medio de un e-mail a <a href="mailto:legal@gatitosworld.com">legal@gatitosworld.com</a>
 
-==- Normas de Discord
+==- `D` Normas de Discord
 
 ##### Términos de Servicio
 Discord cuenta con unos términos por los que pueden juzgar si un usuario puede o no utilizar los servicios de su plataforma. Estos términos aplican en toda la plataforma, dentro o fuera del servidor. En caso de apreciar un incumplimiento de éstos, el equipo de moderadores evaluará una posible sanción. En caso de que la infracción haya sido realizada en el servidor o contra los usuarios de éste, la sanción será inminente.
@@ -72,11 +71,114 @@ Indicaremos las normas más importantes de estas directivas.
 El incumplimiento de cualquiera de estas normas, tanto de términos de servicio como de directrices de comunidad, podría suponer la sanción máxima, un veto de acceso permanente al servidor.
 !!!
 
-==- Normas generales
+==- `G` Reglas generales
 
-==- Aplicables a canales de texto
+<br>
 
-==- Aplicables a canales de voz
+#### G.1 `🦜` **Idiomas**
+**G.1.1**
+:   El idioma por defecto para la comunicación en el servidor será el español en todo momento.
+
+**G.1.2**
+:   Se podrán enviar ocasionalmente palabras en otros idiomas que compartan el abecedario con el español.<br>Ejemplo correcto: `Hello`; ejemplo incorrecto: `你好`.
+
+**G.1.3**
+:   No se podrá privar a ningún usuario de utilizar el idioma por defecto de la comunidad.
+
+**G.1.4**
+:   El uso reiterado o abuso del derecho especificado en G.1.2 se considerará un incumplimiento de la normativa. 
+
+<br>
+
+#### G.2 `👋` **Uso de los canales**
+
+**G.2.1**
+:   Cada canal tiene determinada una función y/o finalidad en el correspondiente documento alojado en esta misma guía.
+
+**G.2.2**
+:   Todo usuario deberá respetar la función y/o finalidad del canal en el que está interactuando.
+
+**G.2.3**
+:   Sólo en caso de tratarse de un canal personalizado, la función y/o finalidad es marcada por el propietario del canal. En este caso, nunca podrá contradecir estas reglas.
+
+#### G.3 `🥷` **Multicuentas**
+
+**G.3.1**
+:   Las multicuentas en el servidor están permitidas
+
+**G.3.2**
+:   Está prohibido ocultar la posesión de una multicuenta ante un miembro del equipo de moderadores.
+
+**G.3.3**
+:   Está prohibido utilizar las multicuentas con la finalidad de evasión de sanciones o restricciones. Se incluye en éstas últimas la imposibilidad de acceso a canales de voz.
+
+**G.3.4**
+:   Está prohibido interactuar con el servidor con más de una cuenta simultáneamente. Sólo se permitirá en caso de ser moderador y estar efectuando un trabajo de incógnito.
+
+#### G.4 `🚶` **Comportamiento**
+
+**G.4.1**
+:   Mantén un comportamiento respetuoso con el resto de usuarios.
+
+**G.4.2**
+:   No incites a iniciar discusiones o controversia en el servidor.
+
+#### G.5 `🗣️` **Libertad de expresión**
+
+**G.5.1**
+:   En GW limitamos la libertad de expresión, no por intereses, ni razones políticas, económicas, sociales u otros, si no que para mantener un ambiente libre de debates inapropiados.
+
+**G.5.2**
+:   En caso de iniciar un tema controverisal, el equipo de moderadores podrá solicitar abandonar este tema a los usuarios. En caso de no obedecer las instrucciones, podrían ser sancionados.
+
+**G.5.3**
+:   En caso de que un tema ya hablado se vuelva controversial y/o se inicie una polémica descontrolada en algún canal, el equipo de moderadores podrá solicitar abandonar este tema a los usuarios. En caso de no obedecer las instrucciones, podrían ser sancionados.
+
+**G.5.4**
+:   En los canales de voz, bajo la previa autorización de todos los integrantes, se podrán tratar temas controversiales siempre que no se inicien faltas de respeto, incumplimiento de otras reglas o polémicas graves.
+
+#### G.6 `💬` **Vocabulario**
+
+**G.6.1**
+:   Mantén un vocabulario respetuoso y adecuado, sin lenguaje soez, agresivo u ofensivo para el resto de usuarios.
+
+**G.6.2**
+:   Adapta tu vocabulario a la situación controlando tus palabras.
+
+#### G.7 `👤` **Perfil**
+
+**G.7.1**
+:   Mantén un perfil libre de contenido no apto para menores.
+
+**G.7.2**
+:   Mantén un nombre legible y cuya longitud no sea excesiva. Este criterio recaerá en el staff, por lo general afectará a nombres de usuarios de más de 20 caracteres.
+
+**G.7.3**
+:   Mantén un perfil libre de ideologías políticas, referencias a éstas o mención a temas controversiales o polémicos.
+
+#### G.8 `📢` **SPAM y autopromoción**
+
+**G.8.1**
+:   Está prohibido el spam y la autopromoción en cualquier canal del servidor.
+
+**G.8.2**
+:   Está prohibido el spam y la autopromoción por mensaje directo a aquellos usuarios que no lo hayan solicitado o que no se encuentren en su lista de amistades.
+
+**G.8.3**
+:   Sólo se permitirá la promoción del contenido de Capitán Gato y asociados, cualquier otro tipo de promoción recaerá bajo las consecuencias del apartado `G.8.1` y/o `G.8.2`
+
+#### G.9 `👮` **Instrucciones del staff**
+
+**G.9.1**
+:   Ante la hipotética situación de que una regla no especifique o aclare la legalidad o ilegalidad de un acontecimiento, cualquier moderador podrá dictaminar resolución. En caso de aplicarse esta norma, se aplicarán procedimientos especiales de sanción.
+
+**G.9.2**
+:   Ante la presencia de múltiples miembros del equipo administrativo, predominará la palabra de a mayoría de los superiores.<br>Ejemplificado: Se encuentran 4 moderadores y 3 mentores. La resolución será la opinión por mayoría de los 3 mentores.<br>
+En caso de empate se analizarán medios de evaluación alternativos.
+
+==- `T` Aplicables a canales de texto
+
+==- `V` Aplicables a canales de voz
 
 ##### Para todos los canales de voz
 
@@ -93,7 +195,7 @@ Como usuario, dispone usted de una serie de derechos. Aquí se recogen todos ell
 
 - **Derecho a la revisión de las pruebas.** Tiene usted derecho a que las pruebas de cualquier incidente en el que haya sido partícipe sean revisadas. No se garantiza que se puedan mostrar al usuario dada la posible participación de otros usuarios, no obstante, puede apoyarse en su derecho a la revisión imparcial de un caso por medio de un segundo moderador.
 - **Derecho a ser tratad@ imparcialmente.** Como usuario del servidor dispone usted del derecho a ser tratado de forma imparcial, sin atender a origen, etnia, ideología política, situación social u otros factores excluyentes.
-- **Derecho a informar de su disconformidad con la sanción.** Siguiendo las normas del servidor y Discord, y bajo un lenguaje formal y respetuoso, usted puede trasladar a cualquier miembro del equipo de moderadores su disconformidad con alguna de sus sanciones.
+- **Derecho a informar de su disconformidad con la sanción.** Siguiendo las reglas del servidor y Discord, y bajo un lenguaje formal y respetuoso, usted puede trasladar a cualquier miembro del equipo de moderadores su disconformidad con alguna de sus sanciones.
 - **Derecho a la revisión imparcial de su sanción.** En caso de haber sido sancionad@, puede usted solicitar que un moderador completamente ajeno al asunto supervise la actuación para determinar si la sanción ha sido dada siguiendo el protocolo o no.
 - **Derecho a la corrección de sanciones.** En caso de haber recibido una sanción desproporcionada o mal medida, tiene usted el derecho de solicitar una corrección, que consistirá en la eliminación de la anterior sanción para otorgar una nueva más acorde a las circunstancias. Ésto no aplicará a las sanciones permanentes o de advertencia.
 - **Derecho a ser informad@.** Cuando usted sea sancionad@, recibirá una notificación aclarando la razón y causa que llevaron a un moderador a sancionarle.
