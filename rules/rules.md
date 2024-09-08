@@ -11,7 +11,7 @@ Estas son las reglas del servidor.<br>
 Por comodidad para nuestros usuarios, en nuestro servidor de Discord encontrarás una versión resumida de éstas, no obstante, si buscas una normativa que recoja todos los casos posibles, aquí se encuentra.
 
 !!! Documento largo
-Tiempo de lectura aproximado: 13 minutos
+Tiempo de lectura aproximado: 15 minutos
 !!!
 
 ==- Preámbulo
