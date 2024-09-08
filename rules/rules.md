@@ -1,5 +1,6 @@
 ---
 order: 1
+date: 2024-09-08
 icon: book
 ---
 
@@ -75,4 +76,17 @@ El incumplimiento de cualquiera de estas normas, tanto de términos de servicio 
 
 ##### Para los canales de voz VIP
 
+===
+
+==- Tus derechos como usuario
+Como usuario, dispone usted de una serie de derechos. Aquí se recogen todos ellos:
+
+- **Derecho a la revisión de las pruebas.** Tiene usted derecho a que las pruebas de cualquier incidente en el que haya sido partícipe sean revisadas. No se garantiza que se puedan mostrar al usuario dada la posible participación de otros usuarios, no obstante, puede apoyarse en su derecho a la revisión imparcial de un caso por medio de un segundo moderador.
+- **Derecho al acceso a sus datos.** Apoyándonos en las leyes europeas, usted puede solicitar por correo electrónico el procesamiento de sus datos como usuario. Se le proporcionarán todas las evidencias posibles sin violar la privacidad de los usuarios que compartían medio de comunicación en ese momento. Pese a ser solicitado por correo, la entrega de los datos siempre se realizará por medio de un ticket.
+- **Derecho a ser tratad@ imparcialmente.** Como usuario del servidor dispone usted del derecho a ser tratado de forma imparcial, sin atender a origen, etnia, ideología política, situación social u otros factores excluyentes.
+- **Derecho a informar de su disconformidad con la sanción.** Siguiendo las normas del servidor y Discord, y bajo un lenguaje formal y respetuoso, usted puede trasladar a cualquier miembro del equipo de moderadores su disconformidad con alguna de sus sanciones.
+- **Derecho a la revisión imparcial de su sanción.** En caso de haber sido sancionad@, puede usted solicitar que un moderador completamente ajeno al asunto supervise la actuación para determinar si la sanción ha sido dada siguiendo el protocolo o no.
+- **Derecho a la corrección de sanciones.** En caso de haber recibido una sanción desproporcionada o mal medida, tiene usted el derecho de solicitar una corrección, que consistirá en la eliminación de la anterior sanción para otorgar una nueva más acorde a las circunstancias. Ésto no aplicará a las sanciones permanentes o de advertencia.
+- **Derecho a ser informad@.** Cuando usted sea sancionad@, recibirá una notificación aclarando la razón y causa que llevaron a un moderador a sancionarle.
+- **Derecho a la privacidad.** Bajo ninguna circunstancia se revelará a terceros la información perteneciente a los casos de sanciones o advertencias.
 ===
