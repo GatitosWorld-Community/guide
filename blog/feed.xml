@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>/blog/</link>
+    <description>Blog</description>
+    <copyright>© Copyright 2024. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 GMT</lastBuildDate>
+    <generator>https://retype.com</generator>
+    <atom:link rel="self" type="application/rss+xml" href="/blog/feed.xml" />
+    <item>
+      <title>¡El gato-blog</title>
+      <guid isPermaLink="true">/blog/gatoblog/</guid>
+      <description>Presentamos el nuevo blog del servidor. Un espacio dónde publicaremos actualizaciones que afectan a esta guía.</description>
+      <author>gacarbla - https://discord.com/users/</author>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
+      <category domain="/categories/información/">Información</category>
+    </item>
+  </channel>
+</rss>
