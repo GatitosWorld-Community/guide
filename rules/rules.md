@@ -241,6 +241,8 @@ En caso de empate se analizarán medios de evaluación alternativos.
 
 ==- `V` Aplicables a canales de voz
 
+<br>
+
 #### V.1 `🔊` Todos los canales de voz
 
 <br>
