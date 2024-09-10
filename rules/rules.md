@@ -14,6 +14,12 @@ Por comodidad para nuestros usuarios, en nuestro servidor de Discord encontrará
 Tiempo de lectura aproximado: 17 minutos
 !!!
 
+!!!danger REPORTAR ES LA MEJOR FORMA DE ACTUAR
+Si aprecias que un usuario incumple estas normas, repórtalo ante el equipo de moderadores y evita a toda costa un enfrentamiento directo. Podrías verte envuelt@ en el problema y recibir una sanción por ello.
+
+La mejor forma de actuar es aportarle al equipo del staff las pruebas necesarias para una actuación rápida.
+!!!
+
 ==- `P` Preámbulo
 
 En este documento se recogen los términos y condiciones por los que se regula el acceso a los servicios que la comunidad de GatitosWorld ofrece en la plataforma de Discord, propiedad de Discord Inc.
@@ -237,11 +243,68 @@ En caso de empate se analizarán medios de evaluación alternativos.
 
 #### V.1 `🔊` Todos los canales de voz
 
+<br>
+
+**V.1.1**
+:   Está prohibido el uso de moduladores de voz generalmente molestos. Entre éstos destacaremos los que cambian considerablemente el tono de voz, la hacen robótica, u otros a valoración del staff que dificulten la comunicación.
+
+**V.1.2**
+:   No reproduzcas audios molestos o que entorpezcan la comunicación. Esto incluye música alta, efectos de sonido u otros que dificulten la comunicación o resulten desagradables para el resto de usuarios.
+
+**V.1.3**
+:   No satures el micrófono. No permitas que audios fuertes, golpes o pertubaciones de audio provoquen ruidos molestos en el canal que dañen la sensibilidad auditiva del resto de integrantes, impidan continuar una conversación o incumplan en su efecto la regla `V.1.2`.
+
+**V.1.4**
+:   No compartas contenido prohibido por las ToS o que referencie a éste. Se incluyen como medios sometidos a esta norma el audio y/o vídeo.
+
+**V.1.5**
+:   No hagas múltiples cambios de canal en un intervalo de tiempo reducido.
+
+**V.1.6**
+:   No accedas a ningún canal con más de una cuenta de forma simultánea.
+
 #### V.2 `👥` Canales de voz públicos
 
-#### V.3 `✏️` Canales de voz personalizados
+Estas normas afectan a los canales <u>estáticos</u> del servidor de acceso general y/o restringido por uno o más roles.
 
-#### V.4 `🌟` Canales de voz VIP
+**V.2.1**
+:   Utiliza un lenguaje apto para todos los públicos.
+
+**V.2.2**
+:   Evita las discusiones, estará completamente prohibido cualquier tipo de enfrentamiento verbal que incumpla las reglas generales del servidor.
+
+**V.2.3**
+:   Respeta los turnos de palabra.
+
+**V.2.4**
+:   No te apoderes por un tiempo excesivo de tu turno de palabra y permite al resto de usuarios participar en la conversación.
+
+#### V.3 `✏️` Canales de voz personalizados
+Estas normas aplican a los canales manejados por el bot CattoCoffee. Canales que usuarios corrientes pueden gestionar, editar y configurar a su libre albedrío bajo estas restricciones:
+
+**V.3.1**
+:   No crees canales con nombres inapropiados.
+
+**V.3.2**
+:   No des temáticas contrarias a las normas a los canales.
+
+**V.3.3**
+:   Si un canal personalizado es de libre acceso, sigue las normas del apartado `V.2`. Con la única excepción de poder mantener discusiones, siempre moderadas por el propietario del canal.
+
+**V.3.4**
+:   Si un canal es público, el dueño del canal será responsable de los altercados que en éste sucedan, al no expulsar a los usuarios conflictivos de su canal.
+
+**V.3.5**
+:   Abandonar y volver a acceder al servidor para acceder a un canal del que has sido bloqueado, o el uso de multicuentas con el mismo propósito, se considera evasión de sanción y supone la pena máxima.
+
+**V.3.6**
+:   Si un canal personalizado es privado, todos los usuarios presentes deben estar de acuerdo para abandonar las reglas expresas según la norma `V.3.3`. Si un usuario no está de acuerdo, el dueño del canal es libre de expulsarlo.
+
+**V.3.7**
+:   Nunca des capacidades de usuarios superiores a 15 sin consentimiento y supervisión del equipo de moderadores.
+
+**V.3.8**
+:   Cualquier tipo de "ataque" a un canal de voz con el objetivo de eliminarlo o arrebatar la propiedad del mismo será considerado una infracción grave.
 
 ===
 
