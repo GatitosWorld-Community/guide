@@ -58,7 +58,7 @@ Aquí encontrarás las reglas fundamentales, reglas que todo moderador está obl
 :   Como moderador/a del servidor, se compromete a no utilizar sus privilegios de forma abusiva, con fines lucrativos o aportando beneficios especiales a determinados usuarios frente a otros.
 
 **S.3.4**
-:   Como moderador/a del servidor, se compromete a repestar las decisiones de los cargos superiores y administrativos, pudiendo indicar formalmente su discrepancia.
+:   Como moderador/a del servidor, se compromete a respetar las decisiones de los cargos superiores y administrativos, pudiendo indicar formalmente su discrepancia.
 
 #### S.4 `🎮` Separación de fines y responsabilidades
 
