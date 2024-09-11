@@ -86,7 +86,7 @@ El incumplimiento de cualquiera de estas normas, tanto de términos de servicio 
 :   El idioma por defecto para la comunicación en el servidor será el español en todo momento.
 
 **G.1.2**
-:   Se podrán enviar ocasionalmente palabras en otros idiomas que compartan el abecedario con el español.<br>Ejemplo correcto: `Hello`; ejemplo incorrecto: `你好`.
+:   Se podrán enviar ocasionalmente contenido en otros idiomas que compartan el abecedario con el español.<br>:white_check_mark: `Hello`<br>:x: `你好`
 
 **G.1.3**
 :   No se podrá privar a ningún usuario de utilizar el idioma por defecto de la comunidad.
