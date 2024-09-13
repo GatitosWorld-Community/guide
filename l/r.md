@@ -1,0 +1,4 @@
+---
+visibility: hidden
+redirect: ../../rules
+---
