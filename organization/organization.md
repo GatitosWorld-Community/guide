@@ -9,7 +9,7 @@ Aquí se refleja la organización del servidor a todos los niveles.<br>
 Selecciona qué sección te interesaría explorar.
 
 ### :icon-hash: Canales
-  - [Reservados](./channels/reserved/)
+<!--  - [Reservados](./channels/reserved/) -->
   - [Texto](./channels/text/)
   - [VIP](./channels/vip/)
   - [Voz (Personalizados)](./channels/custom/)

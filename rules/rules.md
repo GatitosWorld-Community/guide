@@ -189,7 +189,7 @@ En caso de empate se analizarán medios de evaluación alternativos.
 #### T.1 `🤔` Contenido de los mensajes
 
 **T.1.1**
-:   No utilices emojis de forma masiva en los mensajes. No se permitirá exceder el número de 7 emojis por mensaje, y entre 5 y 7 será el equipo de moderadores el encargado de juzgar si se debe sancionar.
+:   No utilices emojis de forma masiva en los mensajes. Será el equipo de moderadores el encargado de juzgar si se debe sancionar.
 
 **T.1.2**
 :   No envíes líricas de ningún tipo, en ningún idioma.

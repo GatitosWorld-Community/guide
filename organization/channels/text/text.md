@@ -55,7 +55,7 @@ Cuidado al entrar en este canal, los memes que en él se envían podrían causar
 <div class="item">
 
 ### :icon-hash:multimedia
-Un bonito lugar para compartir multimedia fuera de contexto de #general, o si en éste no tienes permisos.
+Un bonito lugar para compartir multimedia sin relación a la conversación de #general, o si en éste no tienes permisos.
 
 </div>
 
@@ -82,36 +82,36 @@ Nuestro rinconcito dedicado a esa gente que necesita ayuda para superar un mal m
 
 <div class="item">
 
-### :icon-hash:
-
-
-</div>
-
-<div class="item">
-
-### :icon-hash:
-
+### :icon-hash:juegos
+Un foro en el que poder seleccionar el juego sobre el que vas a hablar e iniciar una conversación en torno a éste.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:
-
-
-</div>
-
-<div class="item">
-
-### :icon-hash:
-
+### :icon-hash:fan-arts
+Nuestra comunidad es hogar también de Capitán Gato, y este es un canal dedicado a aquellos que le quieran dejar un dibujo.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:
+### :icon-hash:arte
+¿Has hecho una obra de arte peor no encaja en :icon-hash:fan-arts? Este es el canal adecuado para compartirla con el resto.
 
+</div>
+
+<div class="item">
+
+### :icon-hash:ediciones
+Si te gusta hacer ediciones o *edits*, puedes compartirlos en este canal. Simplemente recuerda cumplir las reglas.
+
+</div>
+
+<div class="item">
+
+### :icon-hash:pon-música
+¿Estás en un canal de voz y quieres que cierto bot acceda a tu canal para reproducir música? Aquí puedes usar el comando.
 
 </div>
 </div>

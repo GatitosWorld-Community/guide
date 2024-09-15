@@ -55,9 +55,7 @@ Cabe destacar que no todos los roles autoseleccionables son gratuítos o libres,
 <br><br><br><br><br>
 
 ### Acceso a canales de voz
-Para el acceso a canales de voz del servidor necesitarás disponer de los correspondientes roles. El primero de ellos te dará acceso a los canales, en caso de incumplimiento reiterado de las reglas, puede ser retirado. El segundo funciona como rol de control y permitirá el correcto funcionamiento del sistema de roles y permisos.
-
-Estos roles se consiguen como un rol autoseleccionable, es decir, debes solicitar estos roles manualmente en el correspondiente canal.
+El acceso a canales de voz está, por defecto, habilitado a todos los usuarios del servidor. No obstante, ciertos usuarios que demuestren un comportamiento conflictivo, violento o irrespetuoso, podrían ser vetados de este privilegio de forma temporal o permanente.
 
 Recomenadmos encarecidamente revisar la página de roles de canales de voz.
 [!ref Roles de canales de voz](../organization/roles/voice/)

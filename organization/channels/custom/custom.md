@@ -4,6 +4,7 @@ icon:
 tags:
     - primeros pasos
     - vc
+visibility: hidden
 ---
 
 <style>
