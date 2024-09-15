@@ -38,7 +38,7 @@ Se define medida correctora como aquella acción emprendida por un miembro del e
 ##### `L.1` Protección de datos
 En GatitosWorld nos preocupamos por el cumplimiento de las vigentes normativas en materia de protección de datos y seguridad. Garantizamos una transparencia absoluta tratando a cada usuario por un código identificador único no vinculado de forma directa a datos personales, confidenciales o identificativos.
 
-Este servidor sigue las leyes LOPD y RGPD vigentes en España y la Unión Europea. Estas leyes son las consideradas actualmente como más estrictas y restrictivas del mundo, por lo que nos sentimos orgullosos de poder decir que nos hemos adaptado con gran facilidad al resto de legislaciones internacionales.
+Este servidor sigue las leyes [LOPD](https://www.boe.es/buscar/pdf/2018/BOE-A-2018-16673-consolidado.pdf) y [RGPD](https://www.boe.es/doue/2016/119/L00001-00088.pdf) vigentes en España y la Unión Europea. Estas leyes son las consideradas actualmente como más estrictas y restrictivas del mundo, por lo que nos sentimos orgullosos de poder decir que nos hemos adaptado con gran facilidad al resto de legislaciones internacionales.
 
 Almacenamos la información exclusivamente necesaria para poder mantener un registro de actitud y comportamiento en el servidor, junto a las pruebas que acompañen a cualquiera de las sanciones y/o advertencias.
 
