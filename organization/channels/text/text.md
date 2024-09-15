@@ -28,7 +28,7 @@ tags:
 Todos conocemos los clásicos canales de texto de Discord, y en este servidor no hacemos excepciones al mantener uno de los mayores atractivos de la plataforma, el coincidir en pocos segundos con cientos de personas de todo el mundo.<br>
 Estos canales tienen una temática con el fin de mantener una comunidad organizada, y poder seguir fácilmente una conversación en GW. Recuerda que es obligatorio utilizar el canal indicado de acuerdo al tema tratado.
 
-Aquí te dejamos una tabla con los diferentes canales y qué temática tienen.
+<br>
 
 <div class="masonry">
 <div class="item">

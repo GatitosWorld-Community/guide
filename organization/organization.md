@@ -9,11 +9,13 @@ Aquí se refleja la organización del servidor a todos los niveles.<br>
 Selecciona qué sección te interesaría explorar.
 
 ### :icon-hash: Canales
-<!--  - [Reservados](./channels/reserved/) -->
-  - [Texto](./channels/text/)
-  - [VIP](./channels/vip/)
-  - [Voz (Personalizados)](./channels/custom/)
-  - [Voz (Públicos)](./channels/voice/)
+<ul>
+  <li><a href="./channels/reserved/">Reservados</a></li>
+  <li><a href="./channels/text/">Texto</a></li>
+  <li><a href="./channels/vip/">VIP</a></li>
+  <li style="opacity: .3; cursor: not-allowed">Voz (Personalizados)</li>
+  <li><a href="./channels/voice/">Voz (Públicos)</a></li>
+</ul>
 
 ### :icon-person: Roles
   - [Especiales](./roles/specials/)
