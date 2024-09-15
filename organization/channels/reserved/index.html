@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.779697515913">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.779730935057">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -30,12 +30,12 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../../resources/css/retype.css?v=3.5.0.779697515913" rel="stylesheet">
+    <link href="../../../resources/css/retype.css?v=3.5.0.779730935057" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.5.0.779697515913" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.5.0.779730935057" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../../../resources/js/search.js?v=3.5.0.779697515913" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.5.0.779697515913" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../../resources/js/search.js?v=3.5.0.779730935057" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.5.0.779730935057" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -164,6 +164,23 @@
                                 <!-- Rendered if sidebar right is enabled -->
                                 <div id="docs-sidebar-right-toggle"></div>
                                 <!-- Page content  -->
+<style>
+.masonry {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-gap: 1em;
+    grid-auto-rows: min-content;
+}
+
+.item {
+    border: 1px solid rgb(45, 45, 45);
+    border-radius: 8px;
+    padding: 1em;
+    box-sizing: border-box;
+    max-width: 450px;
+    word-wrap: break-word;
+}
+</style>
 <doc-anchor-target id="canales-reservados" class="break-words">
     <h1>
         <doc-anchor-trigger class="header-anchor-trigger" to="#canales-reservados">#</doc-anchor-trigger>
@@ -171,15 +188,10 @@
     </h1>
 </doc-anchor-target>
 <p>Los canales reservados son aquellos esenciales para el funcionamiento de las mecánicas del servidor, pero en los que las interacciones de los usuarios están altamente limitadas, pudiendo en la mayor parte de casos, suponer que sólo se pueda interactuar con reacciones, botones, menús seleccionables, o ninguno de los anteriormente indicados.</p>
-<doc-anchor-target id="mecánicas">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#mecánicas">#</doc-anchor-trigger>
-        <span>Mecánicas</span>
-    </h2>
-</doc-anchor-target>
 <p>Cada canal reservado tiene su función y finalidad, y éstas se ven variadas en función de las necesidades actuales del servidor.</p>
-<p><br><br><br></p>
-<p>Aquí recopilamos los más relevantes para todo nuevo usuario:</p>
+<br>
+<div class="masonry">
+<div class="item">
 <doc-anchor-target id="reglas">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#reglas">#</doc-anchor-trigger>
@@ -187,15 +199,17 @@
     </h3>
 </doc-anchor-target>
 <p>En este canal se recogen las reglas del servidor.<br>También incluye un enlace a esta guía, dónde se encuentra la versión extendida y completa de éstas.</p>
-<br>
+</div>
+<div class="item">
 <doc-anchor-target id="info">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#info">#</doc-anchor-trigger>
         <span><svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path d="M9.618 1.76a.75.75 0 0 1 .623.859L9.46 7.5h6.48l.82-5.118a.75.75 0 0 1 1.48.237L17.46 7.5h3.79a.75.75 0 0 1 0 1.5h-4.03l-.96 6h3.99a.75.75 0 0 1 0 1.5h-4.23l-.78 4.869a.75.75 0 0 1-1.48-.237l.74-4.632H8.02l-.78 4.869a.75.75 0 0 1-1.48-.237L6.5 16.5H2.745a.75.75 0 0 1 0-1.5H6.74l.96-6H3.75a.75.75 0 0 1 0-1.5h4.19l.82-5.118a.75.75 0 0 1 .858-.622ZM14.741 15l.96-6H9.22l-.96 6Z"/></g></g></svg>info</span>
     </h3>
 </doc-anchor-target>
-<p>Canal de información general.<br>Encontrarás una información completa del servidor muy resumida.</p>
-<br>
+<p>Canal de información general.<br>Encontrarás una información completa del servidor muy resumida. Para más detalles, observa esta misma guía.</p>
+</div>
+<div class="item">
 <doc-anchor-target id="niveles">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#niveles">#</doc-anchor-trigger>
@@ -203,15 +217,17 @@
     </h3>
 </doc-anchor-target>
 <p>En este canal se enviarán las notificaciones de subida de nivel.<br>Cada vez que un usuario suba de nivel, tanto en voz como en texto, se mostrará un mensaje en este canal mencionándolo.</p>
-<br>
+</div>
+<div class="item">
 <doc-anchor-target id="colores">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#colores">#</doc-anchor-trigger>
         <span><svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path d="M9.618 1.76a.75.75 0 0 1 .623.859L9.46 7.5h6.48l.82-5.118a.75.75 0 0 1 1.48.237L17.46 7.5h3.79a.75.75 0 0 1 0 1.5h-4.03l-.96 6h3.99a.75.75 0 0 1 0 1.5h-4.23l-.78 4.869a.75.75 0 0 1-1.48-.237l.74-4.632H8.02l-.78 4.869a.75.75 0 0 1-1.48-.237L6.5 16.5H2.745a.75.75 0 0 1 0-1.5H6.74l.96-6H3.75a.75.75 0 0 1 0-1.5h4.19l.82-5.118a.75.75 0 0 1 .858-.622ZM14.741 15l.96-6H9.22l-.96 6Z"/></g></g></svg>colores</span>
     </h3>
 </doc-anchor-target>
-<p>Aquí podrás seleccionar como usuario del servidor si quieres ponerte o quitarte ciertos roles de colores. Para ello, simplemente selecciónalo en la lista, si no tienes el rol te lo dará, y si ya lo tienes te lo quitará.<br>Recuerda quitar tu anterior color antes de poner uno nuevo.</p>
-<br>
+<p>Aquí podrás seleccionar como usuario del servidor si quieres ponerte o quitarte ciertos roles de colores.<br>Recuerda quitar tu anterior color antes de poner uno nuevo.</p>
+</div>
+<div class="item">
 <doc-anchor-target id="auto-roles">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#auto-roles">#</doc-anchor-trigger>
@@ -219,6 +235,8 @@
     </h3>
 </doc-anchor-target>
 <p>Autoroles varios, mensajes con listas, botones, reacciones u otros que te permiten asignarte roles varios como los de notificaciones.</p>
+</div>
+</div>
 
                                 <div class="flex items-center mt-6 mb-6 clear-both">
                                     <span>
