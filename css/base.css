@@ -1,0 +1,116 @@
+* {
+    box-sizing: content-box;
+    font-family: Arial;
+    -webkit-user-drag: none;
+}
+
+:not(.selectable) * {
+    user-select: none;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -ms-touch-select: none;
+    -webkit-user-select: none;
+}
+
+body {
+    background-color: #222;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    width: calc(100% - 50px);
+    height: 60px;
+    background-color: #101010;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    padding: 10px 25px;
+    gap: 20px;
+}
+
+.header > div {
+    height: 40px;
+}
+
+.header > .title {
+    padding: 5px 5px 5px 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: center;
+    background-color: #252525;
+    border-radius: 10px;
+}
+
+.header > .title > .pagetitle {
+    color: #fff;
+    font-weight: bolder;
+    font-size: 32px;
+    margin: 0;
+    width: 180px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+
+.header > .title > .sectiontitle {
+    color: #888;
+    font-size: 16px;
+    text-align: center  ;
+    width: 180px;
+    background-color: #101010;
+    border-radius: 5px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header > .gap {
+    width: 100%;
+}
+
+.header > .searcher > input {
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.content {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.content > div {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.content > .navigationmenu {
+    min-width: 300px;
+    height: 100%;
+    background-color: #0004;
+}
+
+.content > .page {
+    width: 100%;
+    height: 100%;
+}
+
+.content > .contentmenu {
+    min-width: 250px;
+    height: 100%;
+    background-color: #0004;
+}

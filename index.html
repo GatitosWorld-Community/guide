@@ -37,17 +37,52 @@
         content="Explora las reglas, mecánicas, roles y más del servidor de Discord GW Guide.">
     <meta name="twitter:image" content="https://example.com/assets/images/logo.png"> <!-- Cambia por la URL real -->
 
-    <title>GW Guide - Bienvenida</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <title>Bienvenida | GW Guide</title>
 </head>
 
 <body>
-    <div>
-        
+    <div class="circle-container">
+        <button class="button">
+            <i class="fa-solid fa-screwdriver-wrench"></i>
+            <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                <path id="circlePath" fill="none" stroke-width="4" stroke="none" d="
+                M 20, 50
+                a 30,30 0 1,1 60,0
+                a 30,30 0 1,1 -60,0
+                " />
+                <text id="text" font-family="monospace" font-size="18" font-weight="bold" fill="var(--text-1)">
+                    <textPath id="textPath" href="#circlePath">MECÁNICAS</textPath>
+                </text>
+            </svg>
+        </button>
+        <button class="button">
+            <i class="fa-solid fa-shield"></i>
+            <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                <text id="text" font-family="monospace" font-size="18" font-weight="bold" fill="var(--text-1)">
+                    <textPath id="textPath" href="#circlePath">MODERACIÓN</textPath>
+                </text>
+            </svg>
+        </button>
+        <button class="button">
+            <i class="fa-solid fa-paperclip"></i>
+            <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                <text id="text" font-family="monospace" font-size="18" font-weight="bold" fill="var(--text-1)">
+                    <textPath id="textPath" href="#circlePath">ORGANIZACIÓN</textPath>
+                </text>
+            </svg>
+        </button>
+        <button class="button" onclick="window.location = './rules'">
+            <i class="fa-solid fa-book"></i>
+            <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                <text id="text" font-family="monospace" font-size="18" font-weight="bold" fill="var(--text-1)">
+                    <textPath id="textPath" href="#circlePath">REGLAS</textPath>
+                </text>
+            </svg>
+        </button>
     </div>
-
-    <footer>
-        <p>&copy; 2024 GW Guide. Todos los derechos reservados.</p>
-    </footer>
 </body>
 
 </html>
