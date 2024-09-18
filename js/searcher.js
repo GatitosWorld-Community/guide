@@ -94,7 +94,3 @@ const searchPages = (query) => {
         resolve(results.sort((a, b) => b.match.percentage - a.match.percentage))
     })
 };
-
-document.getElementById("searcher").addEventListener("change", async function (e) {
-    console.log(await searchPages(e.target.value))
-})
