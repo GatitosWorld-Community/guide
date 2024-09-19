@@ -21,6 +21,4 @@ tags:
 
 La guía para moderadores no se encuentra incluída en la guía del servidor. Para poder acceder a ella abandonarás esta página.
 
-:::disabled
-[!button text="Ir a la guía" variant="ghost" icon="link-external" target="blank"]() *Función no accesible actualmente.*
-:::
+[!button text="Ir a la guía" variant="primary" icon="link-external" target="blank"](https://mod.gatitosworld.com/) *Función experimental.*
