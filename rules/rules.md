@@ -48,6 +48,8 @@ Como usuario, también puede solicitar la información recopilada sobre su perso
 
 Si tiene alguna duda o consulta, puede contactarnos por medio de un e-mail a <a href="mailto:legal@gatitosworld.com">legal@gatitosworld.com</a>
 
+[!ref Leyes que seguimos](./laws/)
+
 ==- `D` Normas de Discord
 
 ##### `D.1` Términos de Servicio
