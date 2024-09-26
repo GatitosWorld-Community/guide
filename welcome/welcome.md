@@ -31,7 +31,7 @@ Al pié de cada página encontrarás una serie de etiquetas que identifican el t
 ### Reglas
 Empecemos por lo más importante, conocer nuestras reglas.<br>
 En esta guía contamos con una versión completa del reglamento, no obstante como usuario seguramente sea más cómodo para ti leer la versión de Discord, la que se encuentra en nuestro canal de `#reglas`
-[!ref Reglas](../rules/)
+[!ref Reglas](../rules/rules.md)
 
 <br><br><br>
 

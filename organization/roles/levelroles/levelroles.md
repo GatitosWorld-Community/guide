@@ -8,8 +8,71 @@ tags:
 
 # Niveles
 
-!!!warning ¡OH NO!
-Parece ser que actualmente estamos trabajando en esto...
-!!!
+Los roles de niveles son aquellos que son otorgados por el bot CattoCoffee cuando se logra cierto nivel en texto o voz.
 
-![](https://i.pinimg.com/originals/a8/38/83/a83883bc09c956f67033a83d1a1f1240.gif)
+Por ejemplo, existe el rol de nivel 5 en texto, significa que cuando un usuario adquiera este nivel, el bot le asignará el rol que le corresponde.
+
+> Es importante saber que el rol te otorga todos los niveles que te corresponden cuando logras un nuevo nivel, es decir, que si por alguna razón pierdes los roles, los podrás recuperar todos simplemente subiendo un nuevo nivel.
+
+Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, otorgan privilegios a los usuarios como recompensa.
+
+<br><br><br>
+
+## Recompensas por niveles de texto
+**Nivel 5** `@Gato doméstico`
+:   *Sin recompensas.*
+
+**Nivel 10** `@Gato terrícola`
+:   Podrás usar emojis externos.
+
+**Nivel 15** `@Gato levitante`
+:   Podrás usar stickers externos.<br>Podrás cambiar tu apodo.
+
+**Nivel 30** `@Gato astronauta`
+:   Podrás enviar multimedia en forma de links a <kbd>⁠:icon-hash:💬・general</kbd>.
+
+**Nivel 50** `@Gato lunar`
+:   Podrás iniciar actividades en <kbd>:icon-hash:💬・general</kbd>.<br>Podrás crear encuestas en <kbd>:icon-hash:💬・general</kbd>.
+
+**Nivel 75** `@Gato espacial`
+:   Podrás adjuntar multimedia directamente a <kbd>:icon-hash:⁠💬・general</kbd>.
+
+**Nivel 100** `@Gato estelar`
+:   Podrás añadir reacciones.<br>Podrás enviar notas de voz en <kbd>:icon-hash:⁠💬・general</kbd>.
+
+**Nivel 150** `@Gato galáctico`
+:   Separación en la barra de miembros.<br>Poder añadir emotes, stickers y sonidos.
+
+**Nivel 200** `@Gato Cósmico`
+:   Acceso al bot Mudae.<br>Separación en la barra de miembros.
+
+<br><br><br>
+
+## Recompensas por niveles de voz
+
+**Nivel 5** `@Voice Lv. 5`
+:   *Sin recompensas.*
+
+**Nivel 10** `@Voice Lv. 10`
+:   Podrás iniciar actividades en canales de voz.
+
+**Nivel 15** `@Voice Lv. 15`
+:   Podrás activar la cámara y compartir tu pantalla en los conoce gente.
+
+**Nivel 30** `@Voice Lv. 30`
+:   Podrás cambiar tu apodo.<br>Podras enviar multimedia en forma de link en <kbd>:icon-hash:⁠💬・general</kbd>.
+
+**Nivel 50** `@Voice Lv. 50`
+:   Podrás añadir reacciones en los canales de voz.<br>Podrás editar el estado de los canales de voz.
+
+**Nivel 75** `@Voice Lv. 75`
+:   Podrás enviar mensajes dentro de los canales de voz.
+
+**Nivel 100** `@Voice Lv. 100`
+:   Podrás enviar notas de voz en <kbd>:icon-hash:⁠⁠💬・general</kbd>.
+
+**Nivel 150** `@Voice Lv. 150`
+:   Podrás usar el panel de sonidos en los canales de voz.
+
+**Nivel 200** `@Voice Lv. +++`
+:   Separación de la barra de miembros.<br>Podrás añadir un sonido al panel de sonidos del servidor.

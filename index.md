@@ -14,3 +14,5 @@ Recuerda que nuestro objetivo siempre es lograr el mejor lugar posible para todo
 Te recomendamos pasarte por la página de bienvenida.
 [!ref ¡Bienvenid@!](./welcome/)
 !!!
+
+[Historial de cambios](./blog/)
