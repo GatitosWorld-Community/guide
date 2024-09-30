@@ -194,7 +194,7 @@ En caso de empate se analizarán medios de evaluación alternativos.
 :   No utilices emojis de forma masiva en los mensajes. Será el equipo de moderadores el encargado de juzgar si se debe sancionar.
 
 **T.1.2**
-:   No envíes líricas largas, cuyo contenido sea calificado como para explícito o cuya letra esté en un alfabeto diferente al latino y/o anglosajón.<br>Por ejemplo se permiten en español, inglés, francés, alemán... Pero no en chino, japonés, ruso, etc...
+:   No envíes líricas largas, cuyo contenido sea calificado como explícito o cuya letra esté en un alfabeto diferente al latino y/o anglosajón.<br>Por ejemplo se permiten en español, inglés, francés, alemán... Pero no en chino, japonés, ruso, etc...
 
 **T.1.3**
 :   No envíes mensaje sobrecargados de caracteres innecesarios.<br>Ejemplo: `Holaaaaaaaaaaaaaaaa`
