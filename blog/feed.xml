@@ -5,9 +5,17 @@
     <link>https://guide.gatitosworld.com/blog/</link>
     <description>Aquí encontrarás una recopilación de los cambios aplicados sobre esta guía, novedades, descubrimientos y mucho mucho más.</description>
     <copyright>© Copyright 2024. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 GMT</lastBuildDate>
     <generator>https://retype.com</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://guide.gatitosworld.com/blog/feed.xml" />
+    <item>
+      <title>v3.2.48</title>
+      <guid isPermaLink="true">https://guide.gatitosworld.com/blog/3_48/</guid>
+      <description>Actualización de errores de expresión en las reglas.</description>
+      <author>gacarbla - https://discord.com/users/</author>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
+      <category domain="https://guide.gatitosworld.com/categories/versiones/">Versiones</category>
+    </item>
     <item>
       <title>v3.2</title>
       <guid isPermaLink="true">https://guide.gatitosworld.com/blog/3_2/</guid>
