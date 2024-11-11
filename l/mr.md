@@ -1,6 +1,6 @@
 ---
 visibility: hidden
-redirect: ../../mod/rules
+redirect: https://mod.gatitosworld.com/reglas/
 ---
 
 # Redirect

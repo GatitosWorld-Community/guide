@@ -1,4 +1,4 @@
 order: 800
 icon: shield
 label: Protocolos
-visibility: hidden
+visibility:
