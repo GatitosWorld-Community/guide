@@ -22,7 +22,7 @@ Las sanciones van dependiendo de la gravedad de la infracción a nuestras reglas
 !!!
 
 ==- **Warn**
-Esta sanción explica más a detalle [Aquí](http://localhost:5000/mod/protocols/warn/).
+Esta sanción explica más a detalle [Aquí](../warn/).
 
 ==- **Mute**
 Esta sanción consiste en silenciar temporalmente a un usuario, no podrá interactuar con la comunidad en Canales de Texto durante un cierto tiempo, culminado este tiemo podrá volver a interactuar.
