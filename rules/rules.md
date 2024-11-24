@@ -112,7 +112,7 @@ El incumplimiento de cualquiera de estas normas, tanto de términos de servicio 
 #### G.3 `🥷` **Multicuentas**
 
 **G.3.1**
-:   Las multicuentas en el servidor están permitidas
+:   Las multicuentas en el servidor están permitidas.
 
 **G.3.2**
 :   Está prohibido ocultar la posesión de una multicuenta ante un miembro del equipo de moderadores.
@@ -137,7 +137,7 @@ El incumplimiento de cualquiera de estas normas, tanto de términos de servicio 
 :   En GW limitamos la libertad de expresión, no por intereses, ni razones políticas, económicas, sociales u otros, si no que para mantener un ambiente libre de debates inapropiados.
 
 **G.5.2**
-:   En caso de iniciar un tema controverisal, el equipo de moderadores podrá solicitar abandonar este tema a los usuarios. En caso de no obedecer las instrucciones, podrían ser sancionados.
+:   En caso de iniciar un tema controversial, el equipo de moderadores podrá solicitar abandonar este tema a los usuarios. En caso de no obedecer las instrucciones, podrían ser sancionados.
 
 **G.5.3**
 :   En caso de que un tema ya hablado se vuelva controversial y/o se inicie una polémica descontrolada en algún canal, el equipo de moderadores podrá solicitar abandonar este tema a los usuarios. En caso de no obedecer las instrucciones, podrían ser sancionados.
@@ -173,7 +173,7 @@ El incumplimiento de cualquiera de estas normas, tanto de términos de servicio 
 :   Está prohibido el spam y la autopromoción por mensaje directo a aquellos usuarios que no lo hayan solicitado o que no se encuentren en su lista de amistades.
 
 **G.8.3**
-:   Sólo se permitirá la promoción del contenido de Capitán Gato y asociados, cualquier otro tipo de promoción recaerá bajo las consecuencias del apartado `G.8.1` y/o `G.8.2`
+:   Sólo se permitirá la promoción del contenido de Capitán Gato y asociados, cualquier otro tipo de promoción recaerá bajo las consecuencias del apartado `G.8.1` y/o `G.8.2`.
 
 #### G.9 `👮` **Instrucciones del staff**
 
@@ -203,7 +203,7 @@ En caso de empate se analizarán medios de evaluación alternativos.
 :   No envíes mensajes con ASCII Arts en ninguno de los canales del servidor.
 
 **T.1.5**
-:   No inundes ningún canal con mensajes externos a cualquier conversación o carentes de signifante o significado.
+:   No inundes ningún canal con mensajes externos a cualquier conversación o carentes de significante o significado.
 
 #### T.2 `⛓️` Cadenas
 
@@ -256,7 +256,7 @@ En caso de empate se analizarán medios de evaluación alternativos.
 :   No reproduzcas audios molestos o que entorpezcan la comunicación. Esto incluye música alta, efectos de sonido u otros que dificulten la comunicación o resulten desagradables para el resto de usuarios.
 
 **V.1.3**
-:   No satures el micrófono. No permitas que audios fuertes, golpes o pertubaciones de audio provoquen ruidos molestos en el canal que dañen la sensibilidad auditiva del resto de integrantes, impidan continuar una conversación o incumplan en su efecto la regla `V.1.2`.
+:   No satures el micrófono. No permitas que audios fuertes, golpes o perturbaciones de audio provoquen ruidos molestos en el canal que dañen la sensibilidad auditiva del resto de integrantes, impidan continuar una conversación o incumplan en su efecto la regla `V.1.2`.
 
 **V.1.4**
 :   No compartas contenido prohibido por las ToS o que referencie a éste. Se incluyen como medios sometidos a esta norma el audio y/o vídeo.
