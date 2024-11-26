@@ -7,7 +7,7 @@ tags:
     - discord
 ---
 
-# Guía de moderadores
+# Guía de Moderadores
 
 <h3 style="margin-top:-20px">Accede a la guía para moderadores de GW.</h3>
 

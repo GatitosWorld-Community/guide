@@ -3,7 +3,7 @@ output: .retype
 url: https://guide.gatitosworld.com/
 branding:
   title: GW Guide
-  label: v3.2.50
+  label: v3.3.59
 links:
 - text: Accede al servidor
   link: https://discord.com/invite/gatitos
