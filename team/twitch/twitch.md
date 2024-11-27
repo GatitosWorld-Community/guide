@@ -7,7 +7,7 @@ tags:
     - twitch
 ---
 
-# Guía de moderadores
+# Guía de Twitch
 
 <h3 style="margin-top:-20px">Accede a la guía para moderadores de Twitch.</h3>
 
