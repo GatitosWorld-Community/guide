@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-space-950: #07061a;
+  --color-space-900: #0b0a24;
+  --color-space-800: #0f0e31;
+  --color-space-700: #14133f;
+  --color-space-600: #1a1951;
+  --color-space-500: #232169;
+  --color-nebula-500: oklch(78% 0.18 200);
+  --color-nebula-400: oklch(86% 0.15 195);
+  --color-nebula-300: oklch(92% 0.11 192);
+  --color-aurora-500: oklch(82% 0.2 130);
+  --color-aurora-400: oklch(88% 0.16 130);
+}
+
+@layer base {
+  html, body { height: 100%; }
+  body { background: var(--color-space-950); color: white; }
+}
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 1rem;
+  max-width: 80rem;
+}
